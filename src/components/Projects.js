@@ -4,16 +4,13 @@ import { useInView } from 'react-intersection-observer';
 import { 
   FaGithub, 
   FaExternalLinkAlt, 
-  FaPython, 
   FaBrain, 
-  FaDatabase,
   FaWhatsapp,
   FaLanguage,
   FaFileContract,
   FaCar,
   FaChartLine
 } from 'react-icons/fa';
-import { SiFastapi, SiOpenai, SiLangchain } from 'react-icons/si';
 import './Projects.css';
 
 const Projects = () => {
